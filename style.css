@@ -1,3 +1,7 @@
 body{
   background-color: aliceblue;
 }
+
+head{
+    bottom: 10px;
+}
